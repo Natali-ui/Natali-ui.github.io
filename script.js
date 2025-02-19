@@ -1,4 +1,4 @@
-const text = "Дюкова Наталья QA Инженер";
+const text = "Дюкова Наталья";
 const typedTextElement = document.getElementById("typed-text");
 let index = 0;
 
